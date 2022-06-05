@@ -857,7 +857,10 @@ header .container {
   }
 
   .newsletter-card .card-content,
-  .card-form { width: 50%; }
+  .card-form { 
+    width: 50%;
+    opacity: 100%;
+   }
 
   .newsletter-card .card-text,
   .newsletter-card .input-field { margin-bottom: 0; }
