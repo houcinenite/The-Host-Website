@@ -856,20 +856,19 @@ header .container {
     gap: 50px;
   }
 
-  .newsletter-card .card-content,
+  .newsletter-card .for-content,
   .card-form { 
     width: 50%;
    }
-.card-content{
-  color: black;
-}
 
   .newsletter-card .card-text,
   .newsletter-card .input-field { margin-bottom: 0; }
 
 }
 
-
+.for-content,.for-title,.card-text{
+  color: black;
+}
 
 
 
