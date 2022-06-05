@@ -368,7 +368,7 @@ header .container {
   background: hsla(0, 0%, 100%, 0.1);
 }
 
-.card-banner img { width: 100%; }
+.card-banner img { width: 50%; }
 
 .card-banner-icon {
   position: absolute;
