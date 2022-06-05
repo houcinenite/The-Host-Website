@@ -355,7 +355,7 @@ header .container {
   overflow: hidden;
   margin-bottom: 20px;
   z-index: 1;
-  opacity: 50%;
+  opacity: 75%;
 }
 
 .card-banner::before {
