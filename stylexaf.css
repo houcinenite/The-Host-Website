@@ -373,6 +373,10 @@ header .container {
 	height: 100px;
 }
 
+.game-banner img { 
+	width: 100%;
+}
+
 .card-banner-icon {
   position: absolute;
   bottom: 20px;
