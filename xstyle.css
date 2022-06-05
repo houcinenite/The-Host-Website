@@ -436,7 +436,7 @@ header .container {
 .newsletter { padding: var(--section-padding) 0; }
 
 .newsletter-card {
-  background: url("/Assets/vivid-blurred-colorful-background_58702-2545.webp") center no-repeat;
+  background: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2545.jpg?w=2000") center no-repeat;
   background-size: cover;
   padding: 60px 20px;
   border-radius: 12px;
@@ -943,7 +943,7 @@ header .container {
     display: block;
     width: 100%;
     padding-top: 100%;
-    background: url("/Assets/vivid-blurred-colorful-background_58702-2545.webp") no-repeat;
+    background: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2545.jpg?w=2000") no-repeat;
     background-size: cover;
     border-radius: 100px;
   }
