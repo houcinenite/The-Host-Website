@@ -860,6 +860,9 @@ header .container {
   .card-form { 
     width: 50%;
    }
+.card-content{
+  color: black;
+}
 
   .newsletter-card .card-text,
   .newsletter-card .input-field { margin-bottom: 0; }
